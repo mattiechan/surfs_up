@@ -33,5 +33,12 @@ The purpose of this project is to analyze temperature trends determing whether o
 • 1st quartile: 25% of all data is at 0 inches in December and 0 inches in June.
 • 3rd quartile 75% of all data is below 0.15 inches in December and 0.12 inches in June.
 
+![Screen Shot 2022-04-10 at 4 47 27 PM](https://user-images.githubusercontent.com/91761603/162645207-b2e0c18a-73cb-4ad9-baae-93f3a0181631.png)
+![Screen Shot 2022-04-10 at 4 47 32 PM](https://user-images.githubusercontent.com/91761603/162645210-a86970bd-b6eb-4b92-bf49-2ee3d7276bd1.png)
+
+
+# Summary 
+
+From our analysis, we can see that the isn't a huge difference in temperature between the two months. We do notice that there is a difference when it comes to rainfall when comparing the two months. December had a higher rate of rainfall (6.42 inches) and June with a rate of (4.43 inches). We believe that Oahu can be a potential location for a prosperous surf/ice cream shop from the analysis we did based on the data that was collected. 
 
 
